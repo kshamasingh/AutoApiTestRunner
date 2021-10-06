@@ -1,0 +1,2 @@
+[console_scripts]
+  auto=AutoApiTestRunner.auto:cli
